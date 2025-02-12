@@ -18,5 +18,5 @@ Flask инструкция - https://docs.google.com/document/d/1fTbC6Er7xbPqw68
 
 кк - https://t.me/c/1940888921/2/986
 
-
+https://project12166961.tilda.ws/
 
