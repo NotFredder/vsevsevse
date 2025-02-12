@@ -20,3 +20,4 @@ Flask инструкция - https://docs.google.com/document/d/1fTbC6Er7xbPqw68
 
 https://project12166961.tilda.ws/
 
+https://www.ol-cbs.ru/service/online/edd/75-pesni-vojny-i-pobedy/1802-zhdi-menya
